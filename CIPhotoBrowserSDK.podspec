@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/WuliJoJo/CIPhotoBrowser'
+  s.homepage         = 'https://github.com/ladybirdDEV/CIPhotoBrowser.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'idbeny' => 'idbeny@163.com' }
-  s.source           = { :git => 'https://github.com/WuliJoJo/CIPhotoBrowser.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ladybirdDEV/CIPhotoBrowser.git', :tag => s.version.to_s }
 
 
   s.ios.deployment_target = '13.0'
