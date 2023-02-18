@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIPhotoBrowserSDK'
-  s.version          = '0.2.4'
+  s.version          = '0.2.5'
   s.summary          = 'A short description of CIPhotoBrowserSDK.'
 
 # This description is used to generate tags and improve search results.
@@ -26,6 +26,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'idbeny' => 'idbeny@163.com' }
   s.source           = { :git => 'https://github.com/ladybirdDEV/CIPhotoBrowser.git', :tag => s.version.to_s }
 
+  s.static_framework = true
 
   s.ios.deployment_target = '13.0'
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
@@ -33,5 +34,6 @@ TODO: Add long description of the pod here.
   
   s.vendored_frameworks = "CIPhotoBrowser/CIPhotoBrowserSDK.framework"
   
+  s.dependency 'CIWebImageSDK'
   s.dependency 'Masonry'
 end
