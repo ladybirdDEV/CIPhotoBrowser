@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIPhotoBrowser'
+  s.name             = 'CIMPhotoBrowser'
   s.version          = '0.2.7'
   s.summary          = 'A short description of CIPhotoBrowser.'
 
