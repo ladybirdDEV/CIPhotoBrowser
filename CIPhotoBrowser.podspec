@@ -34,6 +34,6 @@ TODO: Add long description of the pod here.
   
   s.vendored_frameworks = "CIPhotoBrowser/CIPhotoBrowser.framework"
   
-  s.dependency 'CIWebImage'
+  s.dependency 'CIWebImage', '0.1.9'
   s.dependency 'Masonry'
 end
