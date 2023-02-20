@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CIPhotoBrowserSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint CIPhotoBrowser.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIPhotoBrowserSDK'
-  s.version          = '0.2.5'
-  s.summary          = 'A short description of CIPhotoBrowserSDK.'
+  s.name             = 'CIPhotoBrowser'
+  s.version          = '0.2.6'
+  s.summary          = 'A short description of CIPhotoBrowser.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -32,8 +32,8 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
-  s.vendored_frameworks = "CIPhotoBrowser/CIPhotoBrowserSDK.framework"
+  s.vendored_frameworks = "CIPhotoBrowser/CIPhotoBrowser.framework"
   
-  s.dependency 'CIWebImageSDK'
+  s.dependency 'CIWebImage'
   s.dependency 'Masonry'
 end

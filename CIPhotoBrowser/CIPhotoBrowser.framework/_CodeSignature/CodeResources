@@ -12,17 +12,13 @@
 		<data>
 		XJj4ja7mGATE19++yjrFzh5kNK8=
 		</data>
-		<key>Headers/CIPhotoBrowserSDK.h</key>
-		<data>
-		mrrKsJEXTSpOj5I99+UeUNimZzc=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		eCC9pZqIJfwyNoOGGy3E2QRHHdQ=
+		f3jzX+/UJDPwi8qXYRFiw9zEnQg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		5fgkhwlqGcnFgTnYbrZwJNeUjj8=
+		wpofBdL+CcqDSAjvQyO3WPh97qs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -49,26 +45,15 @@
 			rhXDtvzjm8JpbfN+lBYiglp0m7WMWhtIp3MFbSmBxyw=
 			</data>
 		</dict>
-		<key>Headers/CIPhotoBrowserSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mrrKsJEXTSpOj5I99+UeUNimZzc=
-			</data>
-			<key>hash2</key>
-			<data>
-			89Bs/AvfRgV02C/rTd+47O2pkuumjTRWw59sGeZgHrc=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5fgkhwlqGcnFgTnYbrZwJNeUjj8=
+			wpofBdL+CcqDSAjvQyO3WPh97qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			go+yu7qigvh6oZcqS5+WRjQV1yJAaLc5cM6TlyFTIEU=
+			ywToIDxaX8ByzX/xG/sazc8cVpyWiRUQtensKsWvd38=
 			</data>
 		</dict>
 	</dict>
