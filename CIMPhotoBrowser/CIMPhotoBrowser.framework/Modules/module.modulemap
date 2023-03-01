@@ -1,0 +1,6 @@
+framework module CIMPhotoBrowser {
+  umbrella header "CIMPhotoBrowser.h"
+
+  export *
+  module * { export * }
+}

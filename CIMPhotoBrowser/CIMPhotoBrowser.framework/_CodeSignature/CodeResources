@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/CIMPhotoBrowser.h</key>
+		<data>
+		tQKrliq6AamD1UF8I9nX8BT6HAU=
+		</data>
 		<key>Headers/CIPhoto.h</key>
 		<data>
 		n7rPoqX8ZosbvELu6pknr2xa2Hc=
@@ -14,15 +18,26 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f3jzX+/UJDPwi8qXYRFiw9zEnQg=
+		dbqEIA4dR7R8s3d+DwJaL4fCmt4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		wpofBdL+CcqDSAjvQyO3WPh97qs=
+		STfnMIyViFPlofhcG5ggn2a0Uak=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/CIMPhotoBrowser.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tQKrliq6AamD1UF8I9nX8BT6HAU=
+			</data>
+			<key>hash2</key>
+			<data>
+			fWtYo7HAMHiIVSxBgPi5ImXHcDNizVhRLqhfVtAm9gg=
+			</data>
+		</dict>
 		<key>Headers/CIPhoto.h</key>
 		<dict>
 			<key>hash</key>
@@ -49,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wpofBdL+CcqDSAjvQyO3WPh97qs=
+			STfnMIyViFPlofhcG5ggn2a0Uak=
 			</data>
 			<key>hash2</key>
 			<data>
-			ywToIDxaX8ByzX/xG/sazc8cVpyWiRUQtensKsWvd38=
+			JZnca2wPG7cLFIfIUPBWMfcUYKbbG4G+NnS6RwptfZY=
 			</data>
 		</dict>
 	</dict>
